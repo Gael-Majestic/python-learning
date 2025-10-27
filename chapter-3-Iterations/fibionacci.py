@@ -1,3 +1,4 @@
+# Fibonacci sequence implementation
 def fibionacci(n):
     current, next = 0, 1
     for i in range(n):
